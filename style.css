@@ -1,0 +1,109 @@
+body{
+    background-color: #b7eeff !important;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-top: 75px;
+}
+.header{
+    margin-bottom: 20px;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    margin-top: 30px;
+    font-family: Comic Sans MS;
+    padding: 40px;
+    border: solid 2px rgb(0, 85, 100);
+}
+
+.p1{
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    margin-top: 30px;
+    font-family: Comic Sans MS;
+    padding: 40px;
+    border: solid 2px rgb(0, 85, 100);
+}
+
+.p2{
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    margin-top: 30px;
+    font-family: Comic Sans MS;
+    padding: 40px;
+    border: solid 2px rgb(0, 85, 100);
+}
+
+.p3{
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    margin-top: 30px;
+    font-family: Comic Sans MS;
+    padding: 40px;
+    border: solid 2px rgb(0, 85, 100);
+}
+
+.p4{
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    margin-top: 30px;
+    font-family: Comic Sans MS;
+    padding: 40px;
+    border: solid 2px rgb(0, 85, 100);
+}
+
+img{
+    width: 65%;
+    height: auto;
+    border-radius: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 > a{
+    text-align: center;
+    display: block;
+    color: rgb(45, 90, 214);
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    padding-top: 15px;
+    border-radius: 10px;
+    font-family: Comic Sans MS;
+    background-color: rgb(127, 193, 255);
+}
+
